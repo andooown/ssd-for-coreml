@@ -4,8 +4,7 @@
 # pipenv
 .venv
 
-# Data, Results
+# Data
 UECFOOD100
 *.pkl
-result
-tflog
+
